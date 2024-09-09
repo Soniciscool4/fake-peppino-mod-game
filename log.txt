@@ -1,0 +1,55 @@
+2024/08/07 08:28:59 --> JoiPlay--> 15 paths are cached.
+2024/08/07 08:28:59 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 08:28:59 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_DOISEMOD_WebBuild_r1/favicon.ico
+2024/08/07 08:42:37 --> JoiPlay--> 16 paths are cached.
+2024/08/07 08:42:37 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 08:42:37 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_DOISEMOD_WebBuild_r1/favicon.ico
+2024/08/07 09:26:53 --> JoiPlay--> 17 paths are cached.
+2024/08/07 09:26:54 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 09:26:54 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_DOISEMOD_WebBuild_r1/favicon.ico
+2024/08/07 09:28:44 --> JoiPlay--> 17 paths are cached.
+2024/08/07 09:28:45 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 09:28:45 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_DOISEMOD_WebBuild_r1/favicon.ico
+2024/08/07 09:58:00 --> JoiPlay--> 17 paths are cached.
+2024/08/07 09:58:01 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 09:58:01 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_PepperMadnessOLD_WebBuild_r1/favicon.ico
+2024/08/07 10:00:30 --> JoiPlay--> 17 paths are cached.
+2024/08/07 10:00:30 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 10:00:31 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_PepperMadnessOLD_WebBuild_r1/favicon.ico
+2024/08/07 10:48:06 --> JoiPlay--> 17 paths are cached.
+2024/08/07 10:48:06 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/runner.html
+2024/08/07 10:48:06 --> JoiPlay--> File not found : /https:/pagead2.googlesyndication.com/pagead/managed/js/adsense/m202407300101/show_ads_impl_with_ama_fy2021.js
+2024/08/07 10:48:07 --> JoiPlay--> File not found : /https:/pagead2.googlesyndication.com/pagead/ads
+2024/08/07 10:48:07 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_PizzaPursuit_WebBuild_r1/favicon.ico
+2024/08/07 10:49:42 --> JoiPlay--> 19 paths are cached.
+2024/08/07 10:49:42 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 10:49:42 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_PizzaPursuit_WebBuild_r1/favicon.ico
+2024/08/07 12:50:53 --> JoiPlay--> 19 paths are cached.
+2024/08/07 12:50:53 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 12:50:54 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_Round2_WebBuild_r1/favicon.ico
+2024/08/07 12:53:58 --> JoiPlay--> 19 paths are cached.
+2024/08/07 12:53:59 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 12:53:59 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_Round2_WebBuild_r1/favicon.ico
+2024/08/07 12:55:51 --> JoiPlay--> 19 paths are cached.
+2024/08/07 12:55:51 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/runner.html
+2024/08/07 12:55:52 --> JoiPlay--> File not found : /https:/pagead2.googlesyndication.com/pagead/managed/js/adsense/m202408060101/show_ads_impl_with_ama_fy2021.js
+2024/08/07 12:55:52 --> JoiPlay--> File not found : /https:/pagead2.googlesyndication.com/pagead/ads
+2024/08/07 12:55:52 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_Round2_WebBuild_r1/favicon.ico
+2024/08/07 16:04:35 --> JoiPlay--> 19 paths are cached.
+2024/08/07 16:04:35 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 16:04:36 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_BoxofHell_WebBuild_r1/favicon.ico
+2024/08/07 16:06:39 --> JoiPlay--> 19 paths are cached.
+2024/08/07 16:06:39 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 16:06:40 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_BoxofHell_WebBuild_r1/favicon.ico
+2024/08/07 16:08:12 --> JoiPlay--> 19 paths are cached.
+2024/08/07 16:08:12 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 16:08:13 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_BoxofHell_WebBuild_r1/favicon.ico
+2024/08/07 16:10:33 --> JoiPlay--> 19 paths are cached.
+2024/08/07 16:10:33 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 16:10:34 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_BoxofHell_WebBuild_r1/favicon.ico
+2024/08/07 16:14:09 --> JoiPlay--> 19 paths are cached.
+2024/08/07 16:14:09 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 16:14:10 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_BoxofHell_WebBuild_r1/favicon.ico
+2024/08/07 16:16:04 --> JoiPlay--> 19 paths are cached.
+2024/08/07 16:16:04 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/barerunner.html
+2024/08/07 16:16:05 --> JoiPlay--> File not found : /storage/emulated/0/Download/PT_BoxofHell_WebBuild_r1/favicon.ico
